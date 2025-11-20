@@ -10,13 +10,13 @@ The system provides **real-time analytics**, **smart consumption predictions**, 
 Add your images here:
 
 ### 🏡 Home Page
-![Home](./screenshots/home.png)
+<img width="939" height="597" alt="Home" src="https://github.com/user-attachments/assets/69d44e99-18cb-41b7-8b81-8b05b8e9e2a3" />
 
 ### 📊 Dashboard
-![Dashboard](./screenshots/dashboard.png)
+<img width="937" height="633" alt="Dashboard" src="https://github.com/user-attachments/assets/f85aaae8-5871-42fd-85a1-5fff5df26d55" />
 
 ### 🧠 Optimizer
-![Optimizer](./screenshots/optimizer.png)
+<img width="1135" height="437" alt="Optimizer" src="https://github.com/user-attachments/assets/1710435a-5bc8-446b-945d-401124195146" />
 
 ---
 
