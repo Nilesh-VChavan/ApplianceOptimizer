@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApplianceOptimizer.Api", "ApplianceOptimizer.Api\ApplianceOptimizer.Api.csproj", "{C7ECD7C3-3662-0305-066C-381FB7C120CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7ECD7C3-3662-0305-066C-381FB7C120CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7ECD7C3-3662-0305-066C-381FB7C120CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7ECD7C3-3662-0305-066C-381FB7C120CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7ECD7C3-3662-0305-066C-381FB7C120CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0D1AF9E-6086-43FA-9DAF-3FAAF44DBEF8}
+	EndGlobalSection
+EndGlobal

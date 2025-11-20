@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "q6ukHSlp7pBwT22YUeJTp26Da7xTiHGaKUhdQP7jSqk=",
+  "Source": "ApplianceOptimizer.Api",
+  "BasePath": "_content/ApplianceOptimizer.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
