@@ -7,8 +7,6 @@ The system provides **real-time analytics**, **smart consumption predictions**, 
 
 ## 📸 Screenshots
 
-Add your images here:
-
 ### 🏡 Home Page
 <img width="939" height="597" alt="Home" src="https://github.com/user-attachments/assets/69d44e99-18cb-41b7-8b81-8b05b8e9e2a3" />
 
